@@ -1,0 +1,256 @@
+{
+    "mainakun": [
+        {
+            "id": 1,
+            "uid": 51481228287,
+            "level": 45,
+            "name": "TSX Adekk",
+            "rank": "Gold V",
+            "server": "asia",
+            "status": "ready",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "opmvictor",
+                    "password": "Arsy6414"
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 2,
+            "uid": 51481228287,
+            "level": 45,
+            "name": "TSX Sion",
+            "rank": "Silver V",
+            "server": "asia",
+            "status": "ready",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "mistyctrie@gmail.com",
+                    "password": "Arsy6414"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "uid": 51961789121,
+            "level": 39,
+            "name": "TSX Jetbrain",
+            "rank": "Silver V",
+            "server": "asia",
+            "status": "ready",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "kfpnmbggj@exelica.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 5,
+            "uid": 51984385561,
+            "level": 34,
+            "name": "TSX Lolipop",
+            "rank": "ACE 4",
+            "server": "asia",
+            "status": "ready",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "blazeheart@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 6,
+            "uid": 52009851629,
+            "level": 31,
+            "name": "TSX Huy",
+            "rank": "Gold IV",
+            "server": "asia",
+            "status": "ready",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "tsx.gunturhendrawan@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 7,
+            "uid": 870450978142,
+            "level": 20,
+            "name": "",
+            "rank": "",
+            "server": "asia",
+            "status": "new",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 8,
+            "uid": 870450978142,
+            "level": 20,
+            "name": "",
+            "rank": "",
+            "server": "asia",
+            "status": "new",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 9,
+            "uid": 870450978142,
+            "level": 20,
+            "name": "",
+            "rank": "",
+            "server": "asia",
+            "status": "new",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 10,
+            "uid": 870450978142,
+            "level": 20,
+            "name": "",
+            "rank": "",
+            "server": "asia",
+            "status": "new",
+            "ban_info": "",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        }
+    ]
+}

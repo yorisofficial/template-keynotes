@@ -1,0 +1,264 @@
+{
+    "mainakun": [
+        {
+            "id": 1,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "gmail": {
+                    "username": "gmusername",
+                    "password": "puasnusdas"
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 2,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 3,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "gmail": {
+                    "username": "gmusername",
+                    "password": "puasnusdas"
+                },
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 4,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 5,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 6,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 7,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 8,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 9,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 10,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        }
+    ]
+}
