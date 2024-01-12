@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import CardAccount from "./CardAccount";
-import data from "@/app/data/main-data.json";
+import data from "@/app/data/sample-data.json";
 import Button from "@/app/components/Button";
 import { IconSearch } from "@tabler/icons-react";
 

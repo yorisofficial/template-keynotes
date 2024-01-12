@@ -1,0 +1,82 @@
+{
+    "mainakun": [
+        {
+            "id": 51052230,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "gmail": {
+                    "username": "gmusername",
+                    "password": "puasnusdas"
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 26178343,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "mail": {
+                    "username": "mlusername",
+                    "password": "pasdhasd"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        },
+        {
+            "id": 16187147,
+            "uid": 23444,
+            "status": "ready",
+            "level": 32,
+            "name": "yoirs",
+            "rank": "platinum",
+            "platformLogin": {
+                "facebook": {
+                    "username": "fbusername",
+                    "password": "piuya"
+                },
+                "gmail": {
+                    "username": "gmusername",
+                    "password": "puasnusdas"
+                },
+                "twitter": {
+                    "username": "twusername",
+                    "password": "puasyaoo"
+                },
+                "mail": {
+                    "username": "",
+                    "password": ""
+                }
+            }
+        }
+    ]
+}
