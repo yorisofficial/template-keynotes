@@ -1,6 +1,6 @@
 "use client";
 import Button from "@/app/components/Button";
-import { IconCopy, IconCopyCheck } from "@tabler/icons-react";
+import { IconCopy, IconCopyCheck, IconLoader2 } from "@tabler/icons-react";
 import React, { useState } from "react";
 
 const Page = () => {
@@ -8,9 +8,10 @@ const Page = () => {
   const [range, setRange] = useState(8);
   const [show, setShow] = useState(false);
   const handleRandom = () => {
-    const characters = "0123456789";
+    const characters =
+      "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
     const generateRandomPassword = (length: number) => {
-      let result = "";
+      let result = "HERO";
       const charactersLength = characters.length;
       for (let i = 0; i < length; i++) {
         result += characters.charAt(
@@ -27,7 +28,6 @@ const Page = () => {
     setShow(!show);
     setTimeout(() => {
       setShow(false);
-      setRandom("");
     }, 2000);
   };
   return (
@@ -67,7 +67,9 @@ const Page = () => {
             />
             <button
               onClick={handleClick}
-              className="absolute right-2 top-1/2 flex -translate-y-1/2 items-center justify-center"
+              className={`absolute right-2 top-1/2 flex -translate-y-1/2 items-center justify-center duration-500 ${
+                show ? "scale-150 text-green-500" : ""
+              }`}
             >
               {!show ? <IconCopy /> : <IconCopyCheck />}
             </button>
@@ -75,11 +77,15 @@ const Page = () => {
         </div>
         <div className="mt-4 flex w-full items-center justify-center">
           <Button
+            disabled={show !== false}
             ariaLabel="generate password"
             onClick={handleRandom}
-            className="rounded-md bg-black px-6 py-2 text-white"
+            className="rounded-md bg-black px-6 py-2 text-white duration-500 disabled:scale-90 disabled:!bg-slate-600 disabled:!text-white"
           >
-            Generate
+            <span className={`${!show ? "hidden" : "animate-spin"}`}>
+              <IconLoader2 />
+            </span>
+            {!show ? "Generate" : ""}
           </Button>
         </div>
       </div>

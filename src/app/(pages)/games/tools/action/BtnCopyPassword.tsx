@@ -4,6 +4,7 @@ import {
   IconCopyCheck,
   IconEye,
   IconEyeOff,
+  IconLock,
 } from "@tabler/icons-react";
 import React, { useState } from "react";
 
@@ -18,11 +19,10 @@ const BtnCopyPassword = ({ children }: { children: React.ReactNode }) => {
     }, 1000);
   };
   return (
-    <div
-      className={`relative min-w-[280px] rounded-md px-4 py-2 ${
-        copy ? "border-2 border-green-500" : "border-2"
-      }`}
-    >
+    <div className={`relative min-w-[280px] rounded-md border-2 py-2 pl-14`}>
+      <div className="absolute left-0 top-1/2 flex h-full w-10 -translate-y-1/2 items-center justify-center bg-black text-white dark:bg-white dark:text-black">
+        <IconLock />
+      </div>
       <button
         aria-label="copy user password"
         onClick={handleCopy}
@@ -34,18 +34,18 @@ const BtnCopyPassword = ({ children }: { children: React.ReactNode }) => {
             ? "*".repeat(children.length)
             : null}
       </button>
-      <div className="absolute right-2 top-1/2 flex -translate-y-1/2 items-center justify-center space-x-2">
+      <div className="absolute right-0 top-1/2 flex h-full -translate-y-1/2 items-center justify-center space-x-2 bg-transparent pr-2">
         <button
           aria-label="show password"
           onClick={() => setEye(!eye)}
-          className={`${!eye ? "text-green-500" : ""}`}
+          className={`${!eye ? "text-red-500" : ""}`}
         >
           {!eye ? <IconEye /> : <IconEyeOff />}
         </button>
         <button
           aria-label="copy password"
           onClick={handleCopy}
-          className={`${copy ? "text-green-500" : ""}`}
+          className={`duration-500 ${copy ? "scale-150 text-green-500" : ""}`}
         >
           {copy ? <IconCopyCheck /> : <IconCopy />}
         </button>
