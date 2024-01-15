@@ -2,11 +2,11 @@
     "mainakun": [
         {
             "id": 51052230,
-            "uid": 23444,
+            "uid": 1,
             "status": "ready",
             "level": 32,
-            "name": "yoirs",
-            "rank": "platinum",
+            "name": "user1",
+            "rank": "gold",
             "platformLogin": {
                 "facebook": {
                     "username": "fbusername",
@@ -28,10 +28,10 @@
         },
         {
             "id": 26178343,
-            "uid": 23444,
+            "uid": 2,
             "status": "ready",
             "level": 32,
-            "name": "yoirs",
+            "name": "user2",
             "rank": "platinum",
             "platformLogin": {
                 "facebook": {
@@ -54,11 +54,11 @@
         },
         {
             "id": 16187147,
-            "uid": 23444,
+            "uid": 3,
             "status": "ready",
             "level": 32,
-            "name": "yoirs",
-            "rank": "platinum",
+            "name": "user3",
+            "rank": "ace",
             "platformLogin": {
                 "facebook": {
                     "username": "fbusername",
