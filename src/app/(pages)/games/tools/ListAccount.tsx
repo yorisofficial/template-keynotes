@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import CardAccount from "./CardAccount";
-import data from "@/app/data/sample-data.json";
+import data from "@/app/data/main-data.json";
 import Button from "@/app/components/Button";
 import { IconSearch } from "@tabler/icons-react";
 
@@ -25,8 +25,8 @@ const ListAccount = () => {
           className=""
           onClick={handleSort}
         >
-          <span className="font-light">Sort by</span>{" "}
-          {dataAllSorted === "asc" ? "Terlama" : "Terbaru"}
+          <span className="font-light">Sort by level</span>{" "}
+          <q>{dataAllSorted === "asc" ? "Rendah" : "Tinggi"}</q>
         </Button>
         <div className="relative w-full xl:w-fit">
           <input
@@ -46,7 +46,9 @@ const ListAccount = () => {
           .filter((item) =>
             item.name.toLowerCase().includes(search.toLowerCase()),
           )
-          .sort((a, b) => (dataAllSorted === "asc" ? a.id - b.id : b.id - a.id))
+          .sort((a, b) =>
+            dataAllSorted === "asc" ? a.level - b.level : b.level - a.level,
+          )
           .map((item) => (
             <CardAccount key={item.id} item={item} />
           ))}

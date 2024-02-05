@@ -1,5 +1,5 @@
 import React from "react";
-import data from "@/app/data/sample-data.json";
+import data from "@/app/data/main-data.json";
 import LoginData from "../tools/LoginData";
 import ButtonBack from "@/app/components/ButtonBack";
 

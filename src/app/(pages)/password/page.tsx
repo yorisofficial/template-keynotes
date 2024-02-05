@@ -9,9 +9,10 @@ const Page = () => {
   const [show, setShow] = useState(false);
   const handleRandom = () => {
     const characters =
-      "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
+      // "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*";
+      "1234567890";
     const generateRandomPassword = (length: number) => {
-      let result = "HERO";
+      let result = "";
       const charactersLength = characters.length;
       for (let i = 0; i < length; i++) {
         result += characters.charAt(

@@ -14,7 +14,10 @@ const LoginData = ({ item }: { item: any }) => {
       {platforms.map(
         (platform) =>
           platform.login?.username && (
-            <div key={platform.name}>
+            <div
+              key={platform.name}
+              className="rounded-lg border border-black p-4"
+            >
               <h1 className="mb-4 text-2xl font-bold capitalize">
                 {platform.name}
               </h1>

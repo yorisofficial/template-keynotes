@@ -1,0 +1,274 @@
+{
+    "mainakun": [
+        {
+            "id": 12389011,
+            "uid": 52032641148,
+            "status": "ready",
+            "level": 27,
+            "name": "TSX・Shadow",
+            "rank": "platinum v",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "shadowexplorer@mailsac.com",
+                    "password": "poop1998"
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/shadowexplorer@mailsac.com"
+        },
+        {
+            "id": 12389012,
+            "uid": 52032646558,
+            "status": "ready",
+            "level": 25,
+            "name": "TSX・Frosty",
+            "rank": "gold v",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "frostydragon@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/frostydragon@mailsac.com"
+        },
+        {
+            "id": 12389013,
+            "uid": 52032648891,
+            "status": "ready",
+            "level": 24,
+            "name": "TSX・MidNight",
+            "rank": "gold v",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "midnightrider@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/midnightrider@mailsac.com"
+        },
+        {
+            "id": 12389014,
+            "uid": 52033540156,
+            "status": "ready",
+            "level": 20,
+            "name": "TSX・Whisper",
+            "rank": "gold v",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "lunarwhisper@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/lunarwhisper@mailsac.com"
+        },
+        {
+            "id": 12389015,
+            "uid": 52034072813,
+            "status": "ready",
+            "level": 25,
+            "name": "TSX・Dream",
+            "rank": "platinum iv",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "aquadreamer@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/aquadreamer@mailsac.com"
+        },
+        {
+            "id": 12389016,
+            "uid": 52069917664,
+            "status": "ready",
+            "level": 10,
+            "name": "SarjanaMaraton",
+            "rank": "Silver II",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "komediandata@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/komediandata@mailsac.com"
+        },
+        {
+            "id": 12389017,
+            "uid": 52067709636,
+            "status": "ready",
+            "level": 14,
+            "name": "TukangKoding",
+            "rank": "bronze iii",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "emberwanderer@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/emberwanderer@mailsac.com"
+        },
+        {
+            "id": 12389018,
+            "uid": 100,
+            "status": "new",
+            "level": 1,
+            "name": "nama",
+            "rank": "bronze iii",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "cosmicwander@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/cosmicwander@mailsac.com"
+        },
+        {
+            "id": 12389019,
+            "uid": 100,
+            "status": "new",
+            "level": 1,
+            "name": "",
+            "rank": "bronze iii",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "leafyshadow@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/leafyshadow@mailsac.com"
+        },
+        {
+            "id": 123890110,
+            "uid": 100,
+            "status": "new",
+            "level": 1,
+            "name": "nama",
+            "rank": "bronze iii",
+            "platformLogin": {
+                "facebook": {
+                    "username": "",
+                    "password": ""
+                },
+                "mail": {
+                    "username": "oceanicpulse@mailsac.com",
+                    "password": "poop1998"
+                },
+                "gmail": {
+                    "username": "",
+                    "password": ""
+                },
+                "twitter": {
+                    "username": "",
+                    "password": ""
+                }
+            },
+            "confirm_email": "https://mailsac.com/inbox/oceanicpulse@mailsac.com"
+        }
+    ]
+}

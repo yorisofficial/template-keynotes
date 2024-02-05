@@ -12,14 +12,16 @@ const BtnCopy = ({ children }: { children: React.ReactNode }) => {
     }, 1000);
   };
   return (
-    <div className={`relative min-w-[280px] rounded-md border-2 py-2 pl-14`}>
-      <div className="absolute left-0 top-1/2 flex h-full w-10 -translate-y-1/2 items-center justify-center bg-black text-white dark:bg-white dark:text-black">
+    <div
+      className={`relative w-full min-w-[380px] rounded-md border-2 py-2 pl-14`}
+    >
+      <div className="absolute left-0 top-1/2 flex h-full w-10 -translate-y-1/2 items-center justify-center rounded-l-md border border-black bg-black text-white dark:bg-white dark:text-black">
         <IconUser />
       </div>
       <button onClick={handleCopy} className={`h-full w-full text-start`}>
         {children}
       </button>
-      <div className="absolute right-2 top-1/2 flex -translate-y-1/2 items-center justify-center">
+      <div className="absolute right-0 top-1/2 flex h-full w-10 -translate-y-1/2 items-center justify-center rounded-r-md bg-black text-white dark:bg-white dark:text-black">
         <button
           aria-label="copy username"
           onClick={handleCopy}

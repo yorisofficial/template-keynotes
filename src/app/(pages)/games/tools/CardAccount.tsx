@@ -13,7 +13,7 @@ const CardAccount = ({ item }: { item: any }) => {
   ];
   return (
     <div
-      className={`card-items h-full w-full rounded-md border p-4 ${
+      className={`card-items h-full w-full rounded-md border border-black p-4 dark:border-white ${
         item.name !== "" ? "" : "hidden"
       }`}
     >
@@ -21,7 +21,7 @@ const CardAccount = ({ item }: { item: any }) => {
         <div className="header flex w-full items-start justify-between">
           <span
             className={`
-          flex gap-4 rounded-md px-4 py-2 font-semibold uppercase text-black
+          flex gap-4 rounded-md px-4 py-2 font-semibold uppercase text-white
           ${
             item.status === "ready"
               ? "bg-green-500"
@@ -40,7 +40,7 @@ const CardAccount = ({ item }: { item: any }) => {
         <div className="main">
           <p className="font-mono">{item.uid}</p>
           <p className="text-3xl font-semibold">{item.name}</p>
-          <p className="font-serif text-2xl font-bold">{item.rank}</p>
+          <p className="font-serif text-2xl font-bold uppercase">{item.rank}</p>
         </div>
         <div className="w-full space-y-2">
           <span className="font-semibold capitalize">
